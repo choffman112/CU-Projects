@@ -1,0 +1,1 @@
+This folder contains all project work related to the BIOS 7719 Information Visualization class in the Department of Biosatistics and Informatics at the Colorado School of Public Health (CU Anschutz). 
